@@ -1,16 +1,8 @@
 # demo_provider
+## Testing
+Run this comment: ```flutter test test/widget_test.dart```.
+We will get the output:
+![Image Description](https://i.imgur.com/a9RNY8Y.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If we run the app, we will get the UI like an image below:
+![Image Description](https://i.imgur.com/zEGtsny.png)
